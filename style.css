@@ -1,0 +1,30 @@
+body{
+	background-color: #C3D6FF;
+	
+	
+}
+
+#index { 
+
+text-align: center;
+font-family: "Georgia";
+}
+
+#bio { 
+width: 60%; 
+padding: 75px; 
+top: 20px; 
+
+
+}
+
+h2 {
+  border-bottom: 2px solid black;
+  display: inline;
+}
+
+h3 { 
+font-style:italic
+}
+
+
